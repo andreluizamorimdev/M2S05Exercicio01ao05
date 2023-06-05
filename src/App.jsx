@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <Header />
       <div className='Form'>
-        <Input />
-        <Botao />
+        <Input type='search' placeholder='Procure mais figurinhas'/>
+        <Botao value='Botão'/>
       </div>
-      <ImagemHello />
+      <ImagemHello texto='Aqui está um exemplo das figurinhas' />
     </div>
   );
 }

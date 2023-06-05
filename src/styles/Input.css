@@ -12,3 +12,8 @@
 .Input:hover {
     border: 1px solid #fd7641; 
 }
+
+.Input::placeholder {
+    text-align: center;
+    color: #222;
+}
