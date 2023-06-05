@@ -1,0 +1,14 @@
+.Input {
+    width: 30rem;
+    height: 2.1rem;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #dfe1e5; 
+    box-shadow: none;
+    outline: none;
+    background-color: #fff;
+}
+
+.Input:hover {
+    border: 1px solid #fd7641; 
+}

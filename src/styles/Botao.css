@@ -1,0 +1,16 @@
+.Botao {
+    width: 15rem;
+    height: 2.1rem;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #222; 
+    box-shadow: none;
+    outline: none;
+    background-color: #fd7641;
+    color: #fff;
+}
+
+.Botao:hover {
+    background-color: #e74a0c;
+    border: 1px solid #fff; 
+}
