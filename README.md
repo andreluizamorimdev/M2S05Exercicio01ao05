@@ -13,5 +13,5 @@ Para rodar o projeto utilize o comando abaixo dentro da pasta do projeto:
 
 ### `npm start`
 
-Abrir [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.
+Abrir [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto!
 
